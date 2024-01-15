@@ -61,4 +61,4 @@ async def help(ctx):
     await ctx.send(help_text)
 
 # Run the bot
-bot.run('MTE5NDY1NjI2NjAzNTk0MTUwNw.GZ-O1J.a7NGhqIJmWTDKtH_y7xsI984viAIXq22DMNr8c')
+bot.run('')
